@@ -1,0 +1,48 @@
+# Criado por https://www.gitignore.io/api/windows,java,netbeans
+
+### Janelas ###
+# caches de arquivo de imagem do Windows
+Thumbs.db
+ehthumbs.db
+
+# Arquivo de configuração de pastas
+Desktop.ini
+
+# Lixeira usado em compartilhamentos de arquivos
+$ RECYCLE.BIN /
+
+# arquivos do Windows Installer
+*.táxi
+* .msi
+* .msm
+* .msp
+
+atalhos do Windows #
+* .lnk
+
+
+### NetBeans ###
+nbproject / private /
+construir/
+nbbuild /
+dist /
+nbdist /
+.nb-Gradle /
+
+
+### Java ###
+*.classe
+
+# arquivos BlueJ
+* .ctxt
+
+# Tools Mobile para Java (J2ME)
+.mtj.tmp /
+
+# Package Files #
+* .jar
+*.guerra
+*.orelha
+
+# Registros de acidentes máquina virtual, consulte http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid *
