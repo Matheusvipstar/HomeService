@@ -1,0 +1,4 @@
+br\edu\ifpe\arduino\SensorController.class
+br\edu\ifpe\arduino\ArduinoConnection.class
+br\edu\ifpe\arduino\RestServer.class
+br\edu\ifpe\arduino\SensorAnswer.class
