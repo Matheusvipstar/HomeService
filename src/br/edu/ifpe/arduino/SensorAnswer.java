@@ -8,6 +8,14 @@ public class SensorAnswer implements Serializable {
 
     private int value;
 
+    public SensorAnswer(int value) {
+        this.value = value;
+    }
+
+    public SensorAnswer(){
+        
+    }
+    
     public int getValue() {
         return value;
     }
